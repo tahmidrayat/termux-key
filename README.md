@@ -3,7 +3,7 @@
 ### [+] Disclaimer :
 ***Termux Key is a tool to Add different shortcut key to termux app.***
 
-<img src="https://i.ibb.co/SNdM44F/2020-01-06-17-10-41-Screenshot.jpg" alt="1" border="0">
+<img src="https://i.ibb.co/MVRyVpp/Termux-Key.jpg" alt="1" border="0">
 
 ## [+] Installation :
 
